@@ -1,0 +1,15 @@
+GPS Measurements
+       ↓
+State-Space Model
+       ↓
+EKF
+       ↓
+Adaptive Mechanism
+       ↓
+AEKF
+       ↓
+Estimated Position
+       ↓
+Error Analysis
+       ↓
+Performance Comparison
